@@ -4,9 +4,9 @@ layout: default
 ---
 
 # COMP110 Data Analysis: Does Note-Taking Affect Understanding and Difficulty of Course Content?
+## By Nancy Smart
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<comp110public>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## My Idea
 
