@@ -14,8 +14,14 @@ The course should teach note-taking skills for computer science because it will 
 
 ## Methods
 
-Through using the anonymous survey that students filled out in COMP110, I focused on 4 columns: "own_notes"- which is how often students take their own notes, "own_examples"- which is how often a student writes their own code examples, "understanding"- which is how well the student feels like they understand the course content, "difficulty"- which is how difficult the student believes the course to be.
+Through using the anonymous survey that students filled out in COMP110, I focused on 4 columns: 
+  - "own_notes", which is how often students take their own notes 
+  - "own_examples", which is how often a student writes their own code examples 
+  - "understanding", which is how well the student feels like they understand the course  content
+  - "difficulty", which is how difficult the student believes the course to be.
 
 ## Analysis
+The following figures display different relationships between the four variables. 
 
 Figure 1. Note-taking vs Understanding
+
