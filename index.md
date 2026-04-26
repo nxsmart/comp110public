@@ -24,4 +24,15 @@ Through using the anonymous survey that students filled out in COMP110, I focuse
 The following figures display different relationships between the four variables. 
 
 Figure 1. Note-taking vs Understanding
-<img src="{{ site.baseurl }}/static/imgs/output.png" alt="chart 1" width="500"/>
+<img src="{{ site.baseurl }}/static/imgs/output.png" width="500"/>
+This figure shows the relationship between students who take notes and self-reported understanding of course content. The spread is fairly uniform, and there isn't much of a trend.
+
+Figure 2. Note-taking vs Difficulty
+<img src="{{ site.baseurl }}/static/imgs/output1.png" width="500"/>
+This figure shows the relationship between students who take notes and self-reported difficulty of course content. The darkest squares are concentrated around note-taking scores of 5-7 and difficulty scores of 4-5, meaning most active note-takers still find the course moderately difficult.
+
+Figure 3. Average Understanding by Note-Taking Frequency
+<img src="{{ site.baseurl }}/static/imgs/output2.png" width="500"/>
+This figure shows the average understanding by note-taking frequency reported. Students who rated themselves as 1, or never taking notes, had an average of around 5.0 reported understanding of course content, and students who rated themselves as 7, or always taking notes, had an average of around 4.3 reported understanding
+
+Figure 4. 
