@@ -24,4 +24,4 @@ Through using the anonymous survey that students filled out in COMP110, I focuse
 The following figures display different relationships between the four variables. 
 
 Figure 1. Note-taking vs Understanding
-
+<img src="{{ site.baseurl }}/static/imgs/output.png" alt="chart 1" width="500"/>
